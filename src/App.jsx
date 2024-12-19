@@ -4,7 +4,7 @@ function App() {
   const [message, setMessage] = React.useState("Javascript is so cool.");
 
   function handleClick() {
-    setMessage("I love React");
+    setMessage("I love Python");
   }
   
   return (
